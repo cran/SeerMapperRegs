@@ -1,0 +1,7 @@
+SeerMapperEast - Release 1.2.0 - February 7, 2017
+
+Initial release of SeerMapperEast supplemental U. S. census tract boundary data
+for use with the SeerMapper package.  This package contains
+the U. S. census tract boundaries for any state east of the Mississippi
+River that does not contain a U. S. Seer Area.
+
