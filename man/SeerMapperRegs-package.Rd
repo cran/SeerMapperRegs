@@ -24,8 +24,8 @@
     \tabular{ll}{
       Package:  \tab SeerMapperRegs\cr
       Type:     \tab Package\cr
-      Version:  \tab 1.2.0\cr
-      Date:     \tab 2017-04-10\cr
+      Version:  \tab 1.2.3\cr
+      Date:     \tab 2020-06-17\cr
       License:  \tab GPL-2\cr
       LazyLoad: \tab no\cr
     } 
@@ -121,10 +121,10 @@ boundary datasets for:
   }
 }  
 \author{
-Jim Pearson \email{jpearson0525@gmail.com} with data sourced from 
+Jim Pearson \email{jbpearson353@gmail.com} with data sourced from 
    U. S. Census Bureau \email{geo.tiger@census.gov}\cr 
-Maintainer: "Jim Pearson" \email{jpearson0525@gmail.com}\cr 
-Package compiled by "Jim Pearson" \email{jpearson0525@gmail.com}
+Maintainer: "Fanni Zhang" \email{zhangf@imsweb.com}\cr 
+Package compiled by "Fanni Zhang" \email{zhangf@imsweb.com}
 }
 
 
