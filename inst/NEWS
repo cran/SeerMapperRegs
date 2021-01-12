@@ -1,4 +1,4 @@
-SeerMapperRegs - Release 1.2.0 - April 11, 2017
+SeerMapperRegs - Release 1.2.5 - January 8, 2021
 
 Initial release of SeerMapperRegs supplemental U. S. census tract boundary data
 for use with the SeerMapper package.  This package contains
@@ -16,3 +16,6 @@ Release 1.2.4 - June 22, 2020
 
 Changed the maintainer.
 
+Release 1.2.5 - January 8, 2021
+
+Rebuilt the CRS objects to meet the requirements of the rgdal and sp.
